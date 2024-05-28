@@ -37,7 +37,7 @@ my-todo-app/
 
 ```sh
 git clone https://github.com/rohansadhawni/docker-compose-microservices-todo.git
-cd my-todo-app
+cd docker-compose-microservices-todo
 ```
 
 ### 2. Create a `.env` File
