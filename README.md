@@ -36,7 +36,7 @@ my-todo-app/
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/my-todo-app.git
+git clone https://github.com/rohansadhawni/docker-compose-microservices-todo.git
 cd my-todo-app
 ```
 
